@@ -15,12 +15,12 @@ public class App {
 		
 		output("-------------------------");
 
-		// output(preStr + RechnerStat.summe(1, 1));
-		// output(preStr + RechnerStat.differenz(5, 1));
-		// output(preStr + RechnerStat.produkt(2, 3));
-		// output(preStr + RechnerStat.quotient(2, 4));
+		output(preStr + RechnerStat.summe(1, 1));
+		output(preStr + RechnerStat.differenz(5, 1));
+		output(preStr + RechnerStat.produkt(2, 3));
+		output(preStr + RechnerStat.quotient(2, 4));
 		
-		// output(preStr + Math.PI);
+		output(preStr + Math.PI);
 		
 	}
 
